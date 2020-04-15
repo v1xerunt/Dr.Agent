@@ -1,6 +1,6 @@
 # Dr. Agent
 
-The source code for *Dr. Agent: Clinical Predictive Model via Simulated Second Opinions*
+The source code for *Dr. Agent: Clinical Predictive Model via Mimicked Second Opinions*
 
 ## Requirements
 
