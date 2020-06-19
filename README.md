@@ -58,3 +58,8 @@ You can directly use the model structure in ```./model/``` directory for differe
 4. ```model_phenotyping.py```: multi-class prediction
 
 You can also modify the structure for you specific tasks.
+
+## Citation
+```
+Junyi Gao, Cao Xiao, Lucas M Glass, Jimeng Sun, Dr. Agent: Clinical predictive model via mimicked second opinions, Journal of the American Medical Informatics Association, ocaa074, https://doi.org/10.1093/jamia/ocaa074
+```
